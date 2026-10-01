@@ -20,8 +20,8 @@ Give me my 3-line session recap, check my pending tasks, and let's continue wher
 
 - **Student:** Ronak
 - **Current Phase:** Phase 0 — Python Mastery for Mobile Developers
-- **Current Lesson:** Lesson 0.1: Types, Runtime Realities, and Environment Isolation
-- **Status:** In Progress (Waiting on student code for `exercises/phase0_lesson1.py` and answers to Lesson 0.1 Quiz)
+- **Current Lesson:** Lesson 0.2: Python `asyncio` vs Dart Event Loop & Streams
+- **Status:** In Progress (Working on Lesson 0.2 exercise and quiz)
 - **Active Project Workspace:** `C:\Users\ronak\OneDrive\Desktop\ai-development`
 
 ---

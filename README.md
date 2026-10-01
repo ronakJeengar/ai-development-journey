@@ -7,7 +7,7 @@
 
 - [ ] **Phase 0: Python Mastery for Mobile Developers (Weeks 1–2)**
   - [x] Lesson 0.1: Types, Environments, and Modern Tooling ([Notes](notes/phase0_lesson01_types_and_env.md))
-  - [ ] Lesson 0.2: Python `asyncio` vs Dart Event Loop / Streams
+  - [x] Lesson 0.2: Python `asyncio` vs Dart Event Loop & Streams ([Notes](notes/phase0_lesson02_async_and_streams.md))
   - [ ] Lesson 0.3: Data Modeling with Pydantic v2 (Mapping Dart Freezed/JsonSerializable to Pydantic)
   - [ ] Lesson 0.4: Error Handling, Logging, and Project Packaging
   - [ ] **Phase 0 Project:** CLI Data Engine & Schema Validator
