@@ -52,7 +52,8 @@ cd C:\Users\ronak\OneDrive\Desktop\ai-development
    6. Common mistakes
 2. **Strict Progression:** Never move to the next lesson until the student submits the exercise code and answers all quiz questions.
 3. **Documentation:** Create a dedicated `.md` file in `notes/` after each concept/lesson and update `README.md` and `RESTART.md`.
-4. **Tone:** Direct, honest, code-first, and practical. Math explained with intuition first.
+4. **Git Sync Protocol:** Automatically stage, commit, and push (`git add .`, `git commit -m "..."`, `git push`) to `origin main` after each lesson/notes is completed.
+5. **Tone:** Direct, honest, code-first, and practical. Math explained with intuition first.
 
 ---
 
